@@ -8,6 +8,8 @@ the control plane (gates, validators, scoring, state machine) is
 deterministic code, and no single agent can create, approve and release the
 same design.
 
+<p align="center"><img src="docs/assets/hero.jpg" alt="Concept image (AI-generated). Not a product screenshot." width="100%"><br><sub><em>Concept image (AI-generated). Not a product screenshot.</em></sub></p>
+
 ## Release 1 (this repository)
 
 ```
